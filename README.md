@@ -4,7 +4,7 @@
 
 Ultrasonic Sensor and Servo Motor Control
 This Arduino sketch demonstrates how to use an ultrasonic sensor to measure distance and control a servo motor based on the measured distance.
-
+> Reviewed and Evaluated by AJr.Allan
 **Components Required**
 Arduino board (e.g., Arduino Uno)
 Ultrasonic sensor (e.g., HC-SR04)
