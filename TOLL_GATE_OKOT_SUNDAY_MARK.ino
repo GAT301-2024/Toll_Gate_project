@@ -37,9 +37,9 @@ void loop() {
     myservo.write(pos);             
    delay(15);                       
   }
-  delay(500);
+  delay(5000);
 
-  for (pos = 0; pos>=0; pos -=1){
+  for (pos = 120; pos>=0; pos -=1){
     myservo.write(pos);
     delay(15);
   }
